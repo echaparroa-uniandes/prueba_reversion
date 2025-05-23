@@ -1,3 +1,4 @@
 commit 1
 copmmit de control
 commit de instalacion de dependencias
+se construye una nueva caracteristica con graphql
